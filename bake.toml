@@ -1,0 +1,2 @@
+[build]
+command = ["go", "build", "-tags", "pango_1_42,gtk_3_22", "."]
